@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Piotr_Chodan\Ksztalty\Ksztalty\bin\Debug\Ksztalty.exe.config
+C:\Users\local\Desktop\Piotr_Chodan\Ksztalty\Ksztalty\obj\Debug\Ksztalty.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Piotr_Chodan\Ksztalty\Ksztalty\bin\Debug\Ksztalty.exe
+C:\Users\local\Desktop\Piotr_Chodan\Ksztalty\Ksztalty\bin\Debug\Ksztalty.pdb
+C:\Users\local\Desktop\Piotr_Chodan\Ksztalty\Ksztalty\obj\Debug\Ksztalty.exe
+C:\Users\local\Desktop\Piotr_Chodan\Ksztalty\Ksztalty\obj\Debug\Ksztalty.pdb
